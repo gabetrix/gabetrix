@@ -5,8 +5,8 @@
 _-Marcus Aurelius._
 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grensi)
-![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grensi)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white)
 
 <p>Welcome to my humble code-space, hope you find eveything you need and if you don't just contact me!
 
