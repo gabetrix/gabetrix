@@ -1,8 +1,7 @@
 # Hello there! I'm Gabe
 
-> "Today I scaped axiety. Or no, I discarded it, because it was within me, in my own perceptions - not outside."
+> "Whatever happens, happens."
 
-_-Marcus Aurelius._
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grensi)
