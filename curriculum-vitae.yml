@@ -1,0 +1,71 @@
+name: Gabriel Rensi Silva
+---
+personalInfo:
+  email: gabriel.rensi@gmail.com
+---
+currentJob:
+  company: F1RST Digital Services
+  position: Cloud Architect
+---
+experience:
+  - position: Cloud Architect
+    company: F1RST Digital Services
+    start: 02-2024
+    end: current
+    responsabilities:
+      - Cloud automation with terraform
+      - PoC for new products and/or solutions
+      - Cloud references
+      - Cloud control
+---
+experience:
+  - position: Enterprise Architect
+    company: F1RST Digital Services
+    start: 01-2022
+    end: 01-2024
+    responsabilities:
+      - Architecture metemodel administration
+      - Architecture automations
+      - Enterprise Architecture platform management
+---
+experience:
+  - position: Solutions Architect
+    company: F1RST Digital Services
+    start: 01-2021
+    end: 01-2022
+    responsabilities:
+      - Solutions design
+      - Solutions and Enterprise design for Group Santander companies
+---
+experience:
+  - position: Solutions Architect
+    company: GOL Linhas Aereas
+    start: 03-2018
+    end: 12-2020
+    responsabilities:
+      - Solutions design
+      - Technical references
+      - RFP / Make or Buy evalutaions
+      - Tech Adoption
+---
+experience:
+  - position: Business Analyst
+    company: GOL Linhas Aereas
+    start: 10-2015
+    end: 03-2018
+    responsabilities:
+      - Product design and management
+      - Project management
+      - Negotation leadership
+      - RFP / Make or buy evalutaions
+---
+experience:
+  - position: Intern
+    company: GOL Linhas Aereas
+    start: 04-2014
+    end: 05-2015
+    responsabilities:
+      - Requirement analysis
+      - Project backlog management
+      - Source code versioning
+      - Project technical analysis and reports
