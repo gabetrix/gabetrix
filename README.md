@@ -9,7 +9,7 @@ Mainly I like to spend time reading but when it is not the case I'll be learning
 something new or exercising something I learned, knowledge is power, find something to get yours from, anyhow my learning and exercising will be aroud:
 
 - c-lang / python / .net
-- kubernetes / containers / cloud computing (AWS)
+- kubernetes / containers / terraform
 - mlops / devops
 - data engineering / data science / machine learning
 
