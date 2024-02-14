@@ -15,7 +15,7 @@ something new or exercising something I learned, knowledge is power, find someth
 
 ## Professional info
 
-You can find a detailed YAML file here -link- or you can have your own pdf copy from here -link-
+You can find a detailed YAML file [here](https://raw.githubusercontent.com/gabetrix/gabetrix/main/curriculum-vitae.yml)  oir you can have your own pdf copy from here -link-
 
 ## Personal info
 
