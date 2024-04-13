@@ -8,10 +8,9 @@ Just a guy from a big city around for a while, trying to be more active around h
 Mainly I like to spend time reading but when it is not the case I'll be learning 
 something new or exercising something I learned, knowledge is power, find something to get yours from, anyhow my learning and exercising will be aroud:
 
-- c-lang / python / .net
+- c-lang / python / go
 - kubernetes / containers / terraform
-- mlops / devops
-- data engineering / data science / machine learning
+- mlops / ai
 
 ## Professional info
 
