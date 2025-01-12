@@ -2,24 +2,26 @@ name: Gabriel Rensi Silva
 ---
 personalInfo:
   email: gabriel.rensi@gmail.com
+  major: Computer Science
+  graduation: Artificial Intelligence
 ---
 currentJob:
   company: F1RST Digital Services
   position: Cloud Architect
 ---
 experience:
-  - position: Cloud Architect
+    position: Cloud Architect
     company: F1RST Digital Services
     start: 02-2024
     end: current
     responsabilities:
-      - Cloud automation with terraform
+      - Cloud automation with terraform, kubernetes and crossplane
       - PoC for new products and/or solutions
       - Cloud references
       - Cloud control
 ---
 experience:
-  - position: Enterprise Architect
+    position: Enterprise Architect
     company: F1RST Digital Services
     start: 01-2022
     end: 01-2024
@@ -29,7 +31,7 @@ experience:
       - Enterprise Architecture platform management
 ---
 experience:
-  - position: Solutions Architect
+    position: Solutions Architect
     company: F1RST Digital Services
     start: 01-2021
     end: 01-2022
@@ -38,7 +40,7 @@ experience:
       - Solutions and Enterprise design for Group Santander companies
 ---
 experience:
-  - position: Solutions Architect
+    position: Solutions Architect
     company: GOL Linhas Aereas
     start: 03-2018
     end: 12-2020
@@ -49,7 +51,7 @@ experience:
       - Tech Adoption
 ---
 experience:
-  - position: Business Analyst
+    position: Business Analyst
     company: GOL Linhas Aereas
     start: 10-2015
     end: 03-2018
@@ -59,13 +61,20 @@ experience:
       - Negotation leadership
       - RFP / Make or buy evalutaions
 ---
-experience:
-  - position: Intern
-    company: GOL Linhas Aereas
-    start: 04-2014
-    end: 05-2015
-    responsabilities:
-      - Requirement analysis
-      - Project backlog management
-      - Source code versioning
-      - Project technical analysis and reports
+Skills:
+  publicCloud:
+    - AWS
+    - Azure
+  programmingLanguages:
+    - GO
+    - Python
+  platformTechnology:
+    - Kubernetes
+  techManagement:
+    - DevOps
+    - MLOps
+    - CI/CD
+    - SDLC
+  language:
+    - Portugese
+    - English
