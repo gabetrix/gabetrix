@@ -1,7 +1,7 @@
 
 # Hello there! I'm Gabe
 
-Just a tech guy interest in MLOps and Cloud Architecture, messing with all tools and languages I find interesting
+Just a tech guy interest in MLOps and Platform Engineering, messing with all tools and languages I find interesting
 
 ## Professional info
 
